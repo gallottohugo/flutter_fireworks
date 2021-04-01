@@ -1,7 +1,7 @@
 # flutter_fireworks
 
 
-This project is a simplified copy of <a>https://github.com/vlidholt/flutter_clock</a> where only fireworks are shown.
+This project is a simplified copy of <a>https://github.com/vlidholt/flutter_clock</a> where only fireworks are shown.</br>
 I hope it helps you!
 
 
@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/8320513/113341695-dbfe6780-9303-11eb-8
 
 
 
- <h4>IT WORKS SO MUCH BETTER THAN THE UGLY GIF I WAS CREATE</h4>
+ <h4>IT WORKS SO MUCH BETTER THAN THE UGLY GIF I WAS CREATE (You can see the previous link of the video) </h4>
 
 ![fireworks](https://user-images.githubusercontent.com/8320513/113341668-d1dc6900-9303-11eb-8bfc-5b9942707455.gif)
 
