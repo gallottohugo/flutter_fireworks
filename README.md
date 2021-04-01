@@ -17,10 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
+![fireworks](https://user-images.githubusercontent.com/8320513/113341668-d1dc6900-9303-11eb-8bfc-5b9942707455.gif)
 
 
 
-
-
-https://user-images.githubusercontent.com/8320513/113340891-d94f4280-9302-11eb-9874-db214d980d61.mp4
+https://user-images.githubusercontent.com/8320513/113341695-dbfe6780-9303-11eb-8890-6fd896de46c2.mp4
 
