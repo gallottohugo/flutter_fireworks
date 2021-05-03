@@ -10,3 +10,9 @@ I hope it helps you!
 https://user-images.githubusercontent.com/8320513/113341695-dbfe6780-9303-11eb-8890-6fd896de46c2.mp4
 
 
+____________
+
+
+ <h4>IT WORKS SO MUCH BETTER THAN THE UGLY GIF I WAS CREATE (You can see the previous link of the video) </h4>
+
+![fireworks](https://user-images.githubusercontent.com/8320513/113341668-d1dc6900-9303-11eb-8bfc-5b9942707455.gif)
